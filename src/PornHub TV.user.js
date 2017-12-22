@@ -2,6 +2,7 @@
 // @name        PornHub TV
 // @author      itsmidnightyo
 // @version     1.0.0
+// @license     GPL-3.0+; http://www.gnu.org/licenses/gpl-3.0.txt
 // @description enables the pornhub tv layout as seen on PS4. [custom css edits have also been applied]
 // @match       http://*.pornhub.com/*
 // @match       https://*.pornhub.com/*
