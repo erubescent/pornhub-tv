@@ -9,4 +9,6 @@ Enables the TV layout along with upcoming CSS edits.
 | ------  | ------------------ | ------------------ |
 | Chrome  | Tampermonkey [tmp] | [install][tmp-raw] |
 
+[tmp]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
+
 [tmp-raw]: https://github.com/itsmidnightyo/pornhub-tv/raw/master/src/PornHub%20TV.user.js
