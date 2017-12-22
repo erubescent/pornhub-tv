@@ -1,4 +1,4 @@
-[![GitHub license](https://img.shields.io/github/license/itsmidnightyo/pornhub-tv.svg)](https://github.com/itsmidnightyo/pornhub-tv/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/itsmidnightyo/pornhub-tv.svg?style=flat-square)](https://github.com/itsmidnightyo/pornhub-tv/issues)
 
 PornHub TV
 ======
