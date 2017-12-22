@@ -7,7 +7,7 @@ Enables the TV layout along with upcoming CSS edits.
 ## Installation/Plugins
 | Browser | Plugin              | Direct Install     |
 | ------  | ------------------  | ------------------ |
-| Chrome  | [tampermonkey] | [install][tmp-raw] |
+| Chrome  | tampermonkey        | [install][tmp-raw] |
 
 [tmp]: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo
 
