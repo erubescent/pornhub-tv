@@ -16,7 +16,6 @@
 // @run-at      document-start
 // @namespace   https://github.com/itsmidnightyo
 // ==/UserScript==
-// meow;
 
 Cookies.remove('platform');
 
