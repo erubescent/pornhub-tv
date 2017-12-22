@@ -1,4 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/itsmidnightyo/pornhub-tv.svg?style=flat-square)](https://github.com/itsmidnightyo/pornhub-tv/issues)
+[![Twitter](https://img.shields.io/badge/Twitter-@itsmidnightyo-lightgrey.svg?style=flat-square)](https://twitter.com/itsmidnightyo)
 
 PornHub TV
 ======
