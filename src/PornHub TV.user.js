@@ -26,7 +26,7 @@ Cookies.get('platform');
 
     var alerted = localStorage.getItem('alerted') || '';
     if (alerted != 'yes') {
-	if (confirm('click ok to reload lol')) {
+	if (confirm('welcome to midnight\'s pornhub tv script. click -> ok <- to reload the page.')) {
     	window.location.replace("https://www.pornhub.com");
 	} else {
     	window.location.replace("https://google.com");
