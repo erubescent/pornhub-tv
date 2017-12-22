@@ -14,7 +14,8 @@
 // @require     https://ci.phncdn.com/www-static/js/tv/main.js?cache=2017122020
 // @grant       none
 // @run-at      document-start
-// @namespace   https://github.com/itsmidnightyo
+// @namespace   https://github.com/itsmidnightyo/pornhub-tv
+// @updateURL   https://openuserjs.org/meta/itsmidnightyo/PornHub_TV.meta.js
 // ==/UserScript==
 
 Cookies.remove('platform');
